@@ -9,7 +9,13 @@
     /*#EDD9FF;*/
   }
   a {
-    color: white !important;
+    color: #665340 !important;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 30px;
+  }
+  h3 {
+    color:#665340;
+    font-size: 30px
   }
   a:hover {
     color: #665340 !important;
@@ -19,6 +25,9 @@
     color: #665340;
   }
 
+  p {
+    color: #665340
+  }
 .box {
   background-color: #b8e6ba;
   color: white;
