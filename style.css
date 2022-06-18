@@ -5,31 +5,86 @@
     font-family: 'Arsenal', sans-serif;
   }
   .my-bg {
-    background-color:#b8e6ba;
+    background-color:	rgb(255, 189, 184);
     /*#EDD9FF;*/
   }
   a {
-    color: #665340 !important;
+    color: 	rgb(124, 77, 38) !important;
     font-family: 'Arsenal', sans-serif;
     font-size: 30px;
   }
   h3 {
-    color:#665340;
+    color:	rgb(124, 77, 38);
     font-size: 30px
   }
   a:hover {
-    color: #665340 !important;
+    color: 	rgb(124, 77, 38) !important;
   }
 
   h2 {
-    color: #665340;
+    color: 	rgb(124, 77, 38);
   }
 
   p {
-    color: #665340
+    color: 	rgb(124, 77, 38);
   }
 .box {
-  background-color: #b8e6ba;
-  color: white;
+  background-color: rgb(255, 189, 184);
+  color: 665340;
   border-radius: 16px;
 }
+img {
+  max-width: 100%;
+  max-height: 100%;
+ }
+ .magazine {
+  height: 500px;
+  width: 400px;
+ }
+ img {
+  max-width: 100%;
+  max-height: 100%;
+ }
+ .UCB {
+  height: 370px;
+  width: 400px;
+  padding: 50px;
+ }
+ img {
+  max-width: 100%;
+  max-height: 100%;
+ }
+ .SunLogo {
+  height: 220px;
+  width: 300px;
+  padding: 50px;
+ }
+ img {
+  max-width: 100%;
+  max-height: 100%;
+ }
+ .lbsticker {
+  height: 650px;
+  width: 550px;
+ }
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+  img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+   .center {
+    height: 200px;
+    width: 400px;
+  }
+  img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+   .Flower {
+    height: 10px;
+    width: 20px;
