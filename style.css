@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal:wght@400;700&display=swap');
+
+
+* {
+    font-family: 'Arsenal', sans-serif;
+  }
+  .my-bg {
+    background-color:	rgb(255, 189, 184);
+    /*#EDD9FF;*/
+  }
+  a {
+    color: 	rgb(124, 77, 38) !important;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 30px;
+  }
+  h3 {
+    color:	rgb(124, 77, 38);
+    font-size: 30px
+  }
+  a:hover {
+    color: 	rgb(124, 77, 38) !important;
+  }
+
+  h2 {
+    color: 	rgb(124, 77, 38);
+  }
+
+  p {
+    color: 	rgb(124, 77, 38);
+  }
+.box {
+  background-color: rgb(255, 189, 184);
+  color: 665340;
+  border-radius: 16px;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+ }
+ .magazine {
+  height: 500px;
+  width: 400px;
+ }
+ img {
+  max-width: 100%;
+  max-height: 100%;
+ }
+ .ddlogo {
+  height: 450px;
+  width: 500px;
+  padding: 50px;
+ }
+ img {
+  max-width: 100%;
+  max-height: 100%;
+ }
+ .bcard {
+  height: 300px;
+  width: 550px;
+  padding: 30px;
+ }
+ img {
+  max-width: 100%;
+  max-height: 100%;
+ }
+ .lbsticker {
+  height: 300px;
+  width: 350px;
+ }
+ img {
+  max-width: 100%;
+  max-height: 100%;
+ }
+ .ltrhead {
+  height: 200px;
+  width: 750px;
+ }
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 200px;
+}
+  img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+   .center {
+    height: 250px;
+    width: 300px;
+  }
+  img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+   .Flower {
+    height: 10px;
+    width: 20px;
+   }
